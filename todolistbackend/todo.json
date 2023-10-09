@@ -1,0 +1,47 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "status": "success",
+      "title": "Ev tapsirigi yazma",
+      "description": "Gonchaaa",
+      "publishDate": "12-12-2023"
+    },
+    {
+      "id": 2,
+      "status": "process",
+      "title": "Kursa yazilmaq",
+      "description": "C# oyren Cavid",
+      "publishDate": "12-12-2023"
+    },
+    {
+      "id": 3,
+      "status": "success",
+      "title": "aghjwd",
+      "description": "akkjsakjd",
+      "publishDate": "12-12-1212"
+    },
+    {
+      "status": "success",
+      "title": "aghjwd",
+      "description": "akkjsakjd",
+      "publishDate": "12-12-1212",
+      "id": 4
+    },
+    {
+      "status": "success",
+      "title": "aghjwd",
+      "description": "akkjsakjd",
+      "publishDate": "12-12-1212",
+      "id": 5
+    },
+    {
+      "status": "process",
+      "title": "salaaaam",
+      "description": "salaaaaaaammmm",
+      "publishDate": "12-12-2004",
+      "id": 6
+    }
+  ],
+  "users": []
+}
